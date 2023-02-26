@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> Heyo, I'm Ether </h2>
+  <h1> Heyo, I'm Refaat/Ether </h2>
 </div>
 
 <div align="center">
