@@ -22,4 +22,8 @@ Heyo, I'm Refaat! I'm software development student at SAIT that is expected to g
 <img align="left" alt="html" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"    />
 <div>
   <br></br>
-<hr></hr>
+  
+<div>
+  <hr></hr>
+</div>
+
