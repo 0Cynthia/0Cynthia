@@ -2,7 +2,7 @@
 `Aspiring Software Developer 💻` `Flower Enthusiast 🌻` `Tummy Ache Survivor 🥇`
 
 <p>
-  Heyo, Im Refaat! I am always looking forward to build cool things & solve interesting problems. I love to learn new languages & frameworks inorder to expand my portfolio to   aid in my job hunt >:)
+Heyo, I'm Refaat! I am a software development student at SAIT that is expected to graduated by April 2023.  I look forward to building cool things and solving interesting problems. I also love to learn new languages & frameworks in-order to expand my developer portfolio, and aid in my job hunt >:)
 </p>
 
 
