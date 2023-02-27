@@ -8,7 +8,7 @@ Heyo, I'm Refaat! I'm software development student at SAIT that is expected to g
 #
 
 ### Languages & Tools
-<div>
+<div style="dispaly:flex;">
 <img align="left" alt="html" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />  
 <img align="left" alt="html" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />  
 <img align="left" alt="html" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"  />  
