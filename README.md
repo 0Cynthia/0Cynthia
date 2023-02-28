@@ -19,4 +19,3 @@ Heyo, I'm Refaat! I am a software development student at SAIT that is expected t
     <img alt="vscode"    width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> &nbsp;
 <div>
 <hr></hr>
-    
