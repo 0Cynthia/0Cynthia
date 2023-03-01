@@ -1,5 +1,10 @@
 # Refaat/Ether
-`Aspiring Software Developer 💻` `Flower Enthusiast 🌻` `Tummy Ache Survivor 🥇`   
+
+![Aspiring Software Developer](https://img.shields.io/badge/Aspiring%20Software%20Developer-424549?style=for-the-badge)
+![Flower Enthusiast](https://img.shields.io/badge/Flower%20Enthusiast-424549?style=for-the-badge)
+![Tummy Ache Survivor](https://img.shields.io/badge/Tummy%20Ache%20Survivor-424549?style=for-the-badge)
+
+<br></br>
 
 Heyo, I'm Refaat! I am a software development student at SAIT that is expected to graduated by April 2023. I look forward to building cool things and solving interesting problems. I also love to learn new languages and frameworks in-order to expand my developer portfolio and job opportunities >:)   
 <hr></hr>   
@@ -29,5 +34,6 @@ Heyo, I'm Refaat! I am a software development student at SAIT that is expected t
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
 <hr></hr>
 
